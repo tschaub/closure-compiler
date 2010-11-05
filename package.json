@@ -1,0 +1,7 @@
+{
+    "name": "ringo-closure",
+    "description": "Bringing Google Closure Compiler functionality to Ringo.",
+    "author": "Tim Schaub",
+    "contributors": [],
+    "jars": "jars"
+}
